@@ -9,3 +9,8 @@ Group Members:
 In this assignment we perform an analysis of the Wikipedia Hyperlink graph.
 In particular, given extra information about the categories to which an article belongs to,
 we are curious to rank the articles according to some criteria.
+
+# What you will find in our repository:
+
+1. Homework_5.ipynb: a tidy Notebook where we put the code and the comments of our pipeline.
+2. block_ranking.json(categories_all_median): contains the median of each categories from the C0(i.e.~English_television_actors'~ in our case).
